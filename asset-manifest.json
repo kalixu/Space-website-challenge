@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Space-website-challenge/static/css/main.de3d2d54.chunk.css",
+    "main.js": "/Space-website-challenge/static/js/main.1e91e473.chunk.js",
+    "main.js.map": "/Space-website-challenge/static/js/main.1e91e473.chunk.js.map",
+    "runtime-main.js": "/Space-website-challenge/static/js/runtime-main.32d86de6.js",
+    "runtime-main.js.map": "/Space-website-challenge/static/js/runtime-main.32d86de6.js.map",
+    "static/js/2.b88cc05b.chunk.js": "/Space-website-challenge/static/js/2.b88cc05b.chunk.js",
+    "static/js/2.b88cc05b.chunk.js.map": "/Space-website-challenge/static/js/2.b88cc05b.chunk.js.map",
+    "index.html": "/Space-website-challenge/index.html",
+    "static/css/main.de3d2d54.chunk.css.map": "/Space-website-challenge/static/css/main.de3d2d54.chunk.css.map",
+    "static/js/2.b88cc05b.chunk.js.LICENSE.txt": "/Space-website-challenge/static/js/2.b88cc05b.chunk.js.LICENSE.txt",
+    "static/media/crew.module.css": "/Space-website-challenge/static/media/background-crew-tablet.16d51cf6.jpg",
+    "static/media/destination.module.css": "/Space-website-challenge/static/media/background-destination-tablet.8f55d346.jpg",
+    "static/media/main.module.css": "/Space-website-challenge/static/media/background-home-tablet.bc9efcc3.jpg",
+    "static/media/technology.module.css": "/Space-website-challenge/static/media/background-technology-tablet.48c38b02.jpg",
+    "static/media/icon-close.d47fda63.svg": "/Space-website-challenge/static/media/icon-close.d47fda63.svg",
+    "static/media/icon-hamburger.5273efa7.svg": "/Space-website-challenge/static/media/icon-hamburger.5273efa7.svg",
+    "static/media/logo.565f7f2c.svg": "/Space-website-challenge/static/media/logo.565f7f2c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32d86de6.js",
+    "static/js/2.b88cc05b.chunk.js",
+    "static/css/main.de3d2d54.chunk.css",
+    "static/js/main.1e91e473.chunk.js"
+  ]
+}
